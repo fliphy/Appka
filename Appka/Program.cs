@@ -7,7 +7,8 @@ namespace Appka
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            string a = 10;
+            int a = 10;
+            Console.WriteLine("Hello World!");Console.WriteLine("Hello World!");Console.WriteLine("Hello World!");Console.WriteLine("Hello World!");Console.WriteLine("Hello World!");
         }
     }
 }
